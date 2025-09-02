@@ -3,7 +3,7 @@
 Real-Time Translation
 A Python-based tool leveraging the Google Translate API to provide accurate and efficient text translation between multiple languages.
 
-Features
+Features:
 
 Translate text between over 100 supported languages.
 
